@@ -1,0 +1,10 @@
+{
+	"name": "kreative/sendmode",
+	"description": "Simple PHP library to help leverage the Sendmode API.",
+	"keywords": ["SMS","SMS API","SMS Gateway"],
+	"homepage": "https://github.com/kreative/sendmode",
+	"license": "GPL-3.0",
+	"autoload": {
+		"classmap": ["lib/"]
+	}
+}
